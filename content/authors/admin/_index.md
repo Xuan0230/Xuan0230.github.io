@@ -42,7 +42,9 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
+  - Threads
+  - (G)I-DLE
+  - K-pop
 
 
 education:
